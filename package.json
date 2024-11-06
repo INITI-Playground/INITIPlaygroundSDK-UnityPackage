@@ -1,0 +1,18 @@
+{
+  "name": "com.initiplayground.unity-sdk",
+  "version": "1.0.3",
+  "displayName": "Initi Playground",
+  "description": "Use this package to create new games for Initi Playground platform",
+  "unity": "2019.1",
+  "documentationUrl": "https://docs.initiplayground.com/developers/",  
+  "keywords": [
+    "library",
+    "initi playground",
+    "interactive"
+  ],
+  "author": {
+    "name": "Initi Interactive s.r.o.",
+    "email": "info@initiplayground.com",
+    "url": "https://www.initiplayground.com"
+  }
+}
